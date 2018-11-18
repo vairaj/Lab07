@@ -3,8 +3,8 @@
 #include <vector>
 #include <iterator>
 using namespace std;
-
-//swaps the places of two elements 
+ 
+//post: the two elements are swapped
 //for use with the bubbleSort function :D
 //modified from code from https://www.geeksforgeeks.org/bubble-sort/
 void swap(double *xp, double *yp)
